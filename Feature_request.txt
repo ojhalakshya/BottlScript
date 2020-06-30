@@ -1,0 +1,22 @@
+Load Function:
+  -> Enter c++ function it will make it inbuilt for the library.
+
+Operations:
+1. Arithmatic operations
+2. Printing operations
+3. Conditional Statements
+4. Control Flow
+
+Functions -> user can create own functions
+
+
+Data Structures
+1. Numbers -> (integer, float, long long)
+2. Arrays
+3. String
+4. Stack
+5. Queue
+6. Linked List
+
+Algorithms:
+Only sorting, kedan's, searching

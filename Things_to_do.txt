@@ -1,0 +1,7 @@
+Tasks:->
+1. Parser
+2. Lexer -> tokenizer -> syntax analyzer
+3. Interpretor -> output will be of c++ code
+    - Converts current code to C++ code
+4. Compiler
+5. Error Handler
