@@ -19,4 +19,6 @@ Data Structures
 6. Linked List
 
 Algorithms:
-Only sorting, kedan's, searching
+1. sorting
+2. kadane
+3. searching
